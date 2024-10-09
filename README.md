@@ -146,7 +146,6 @@ Note that some VLMs may not be able to run under certain torchvision versions, w
 
 - **Please use** `torchvision>=0.16` **for**: `Moondream series`
 
-
 ```python
 # Demo
 from vlmeval.config import supported_VLM
